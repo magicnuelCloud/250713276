@@ -23,16 +23,6 @@ body {
     border-radius: 12px;
 }
 
-.header {
-    margin: 0 0 6px;
-    color: #1283c8;
-    font-size: 12px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-}
-
-
 h2{
     margin: 10px;
     color: #494524;
@@ -112,7 +102,6 @@ input[type="submit"]:hover {
 input[type="reset"]:hover {
     background-color: #edf2f7;
 }
-
 
 .footer {
     margin: 10px 0 0;
