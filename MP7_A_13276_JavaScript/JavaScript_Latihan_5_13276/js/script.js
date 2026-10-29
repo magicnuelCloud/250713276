@@ -1,4 +1,4 @@
-function fn_ValFrom(){
+function fn_ValForm(){
             var sMsg ="";
 
             if(document.getElementById("nama").value == ""){
@@ -24,9 +24,9 @@ function fn_ValFrom(){
                 }else{
                     alert("Kategori senior")
                 }   
-                }else{
-                    alert("Pilihan tidak valid")
-                }
+            }else{
+                alert("Pilihan tidak valid")
+            }
 
 
 
@@ -40,4 +40,3 @@ function fn_ValFrom(){
             }
 
         }
-
